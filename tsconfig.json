@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-, "components/MenuItems.js"  ]
+, "components/MenuItems.js", "components/LittleLemonHeader.tsx"  ]
 }
