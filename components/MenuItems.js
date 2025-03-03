@@ -1,5 +1,5 @@
-import React from 'react';
-import { View, Text, StyleSheet, SectionList } from 'react-native';
+import React, { userState } from 'react';
+import { View, Text, StyleSheet, SectionList, TextInput } from 'react-native';
 
 // Menü öğelerini içeren bir dizi tanımlıyoruz
 const menuItemsToDisplay = [
